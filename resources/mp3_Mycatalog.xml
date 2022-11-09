@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Linking the xsl file for transforming -->
+<?xml-stylesheet type="text/xsl" href="theTable.xsl"?>
+<?xml-stylesheet type="text/xsd" href="catalog.xsd"?>
+
+<CATALOG>
+  <MP3>
+    <ALBUM>Empire Burlesque</ALBUM>
+    <ARTIST>Bob Dylan</ARTIST>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Columbia</COMPANY>
+    <SONG>I'll Remember You</SONG>
+    <PRICE>10.90</PRICE>
+    <MEDIA>MP3</MEDIA>
+    <YEAR>1985</YEAR>
+  </MP3>
+  <MP3>
+    <ALBUM>Hide your heart</ALBUM>
+    <ARTIST>Bonnie Tyler</ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>CBS Records</COMPANY>
+    <SONG>Hide your heart</SONG>
+    <MEDIA>MP3</MEDIA>
+    <PRICE>9.90</PRICE>
+    <YEAR>1988</YEAR>
+  </MP3>
+  <MP3>
+    <ALBUM>Still got the blues</ALBUM>
+    <ARTIST>Gary Moore</ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>Virgin records</COMPANY>
+    <SONG>Still got the blues</SONG>
+    <MEDIA>MP3</MEDIA>
+    <PRICE>10.20</PRICE>
+    <YEAR>1990</YEAR>
+  </MP3>
+  <MP3>
+    <ALBUM>Eros</ALBUM>
+    <ARTIST>Eros Ramazzotti</ARTIST>
+    <COUNTRY>Italy</COUNTRY>
+    <COMPANY>BMG</COMPANY>
+    <SONG>Favola</SONG>
+    <MEDIA>MP3</MEDIA>
+    <PRICE>9.90</PRICE>
+    <YEAR>1997</YEAR>
+  </MP3>
+  <MP3>
+    <ALBUM>One night only</ALBUM>
+    <ARTIST>Bee Gees</ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>Polydor</COMPANY>
+    <SONG>Night Fever - More Than a Woman</SONG>
+    <MEDIA>MP3</MEDIA>
+    <PRICE>10.90</PRICE>
+    <YEAR>1998</YEAR>
+  </MP3>
+  <MP3>
+    <ALBUM>Sylvias Mother</ALBUM>
+    <ARTIST>Dr.Hook</ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>CBS</COMPANY>
+    <SONG>Marie Laveau </SONG>
+    <MEDIA>MP3</MEDIA>
+    <PRICE>8.10</PRICE>
+    <YEAR>1973</YEAR>
+  </MP3>
+  <MP3>
+    <ALBUM>Romanza</ALBUM>
+    <ARTIST>Andrea Bocelli</ARTIST>
+    <COUNTRY>Italy</COUNTRY>
+    <COMPANY>Polydor</COMPANY>
+    <SONG>Romanza</SONG>
+    <MEDIA>MP3</MEDIA>
+    <PRICE>11.50</PRICE>
+    <YEAR>1996</YEAR>
+  </MP3>
+  <MP3>
+    <ALBUM>When a man loves a woman</ALBUM>
+    <ARTIST>Percy Sledge</ARTIST>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Atlantic</COMPANY>
+    <SONG>FAdorable one</SONG>
+    <MEDIA>MP3</MEDIA>
+    <PRICE>8.70</PRICE>
+    <YEAR>1987</YEAR>
+  </MP3>
+  <MP3>
+    <ALBUM>Black angel</ALBUM>
+    <ARTIST>Savage Rose</ARTIST>
+    <COUNTRY>EU</COUNTRY>
+    <COMPANY>Mega</COMPANY>
+    <SONG>Black angel</SONG>
+    <MEDIA>MP3</MEDIA>
+    <PRICE>11.90</PRICE>
+    <YEAR>1995</YEAR>
+  </MP3>
+  <MP3>
+    <ALBUM>1999 Grammy Nominees</ALBUM>
+    <ARTIST>Many</ARTIST>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Grammy</COMPANY>
+    <SONG>Iris</SONG>
+    <MEDIA>MP3</MEDIA>
+    <PRICE>10.20</PRICE>
+    <YEAR>1999</YEAR>
+  </MP3>
+  <MP3>
+    <ALBUM>For the good times</ALBUM>
+    <ARTIST>Kenny Rogers</ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>Mucik Master</COMPANY>
+    <SONG>I'm still in love with you</SONG>
+    <MEDIA>MP3</MEDIA>
+    <PRICE>8.70</PRICE>
+    <YEAR>1995</YEAR>
+  </MP3>
+  <MP3>
+    <ALBUM>Tupelo Honey</ALBUM>
+    <ARTIST>Van Morrison</ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>Polydor</COMPANY>
+    <SONG>Tupelo Honey</SONG>
+    <MEDIA>MP3</MEDIA>
+    <PRICE>8.20</PRICE>
+    <YEAR>1971</YEAR>
+  </MP3>
+  <MP3>
+    <ALBUM>Soulsville</ALBUM>
+    <ARTIST>Jorn Hoel</ARTIST>
+    <COUNTRY>Norway</COUNTRY>
+    <COMPANY>WEA</COMPANY>
+    <SONG>Free</SONG>
+    <MEDIA>MP3</MEDIA>
+    <PRICE>9.90</PRICE>
+    <YEAR>1996</YEAR>
+  </MP3>
+  <MP3>
+    <ALBUM>The very best of</ALBUM>
+    <ARTIST>Cat Stevens</ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>Island</COMPANY>
+    <SONG>Wild World</SONG>
+    <MEDIA>MP3</MEDIA>
+    <PRICE>8.90</PRICE>
+    <YEAR>1990</YEAR>
+  </MP3>
+  <MP3>
+    <ALBUM>Bridge of Spies</ALBUM>
+    <ARTIST>T`Pau</ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>Siren</COMPANY>
+    <SONG>Valentine</SONG>
+    <MEDIA>MP3</MEDIA>
+    <PRICE>7.90</PRICE>
+    <YEAR>1987</YEAR>
+  </MP3>
+  <MP3>
+    <ALBUM>Private Dancer</ALBUM>
+    <ARTIST>Tina Turner</ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>Capitol</COMPANY>
+    <SONG>Private Dancer</SONG>
+    <MEDIA>MP3</MEDIA>
+    <PRICE>12.90</PRICE>
+    <YEAR>1983</YEAR>
+  </MP3>
+  <MP3>
+    <ALBUM>Midt om natten</ALBUM>
+    <ARTIST>Kim Larsen</ARTIST>
+    <COUNTRY>EU</COUNTRY>
+    <COMPANY>Medley</COMPANY>
+    <SONG>Rocco</SONG>
+    <MEDIA>MP3</MEDIA>
+    <PRICE>7.80</PRICE>
+    <YEAR>1983</YEAR>
+  </MP3>
+  <MP3>
+    <ALBUM>Pavarotti Gala Concert</ALBUM>
+    <ARTIST>Luciano Pavarotti</ARTIST>
+    <COUNTRY>Italy</COUNTRY>
+    <COMPANY>DECCA</COMPANY>
+    <SONG>Tosca: Recondita armonia</SONG>
+    <MEDIA>MP3</MEDIA>
+    <PRICE>19.90</PRICE>
+    <YEAR>1991</YEAR>
+  </MP3>
+  <MP3>
+    <ALBUM>The dock of the bay</ALBUM>
+    <ARTIST>Otis Redding</ARTIST>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Stax Records</COMPANY>
+    <SONG>Open the door</SONG>
+    <MEDIA>MP3</MEDIA>
+    <PRICE>7.90</PRICE>
+    <YEAR>1968</YEAR>
+  </MP3>
+  <MP3>
+    <ALBUM>Picture book</ALBUM>
+    <ARTIST>Simply Red</ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>Elektra</COMPANY>
+    <SONG>Come to My Aid</SONG>
+    <MEDIA>MP3</MEDIA>
+    <PRICE>7.20</PRICE>
+    <YEAR>1985</YEAR>
+  </MP3>
+  <MP3>
+    <ALBUM>Red</ALBUM>
+    <ARTIST>The Communards</ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>London</COMPANY>
+    <SONG>Red</SONG>
+    <MEDIA>MP3</MEDIA>
+    <PRICE>7.80</PRICE>
+    <YEAR>1987</YEAR>
+  </MP3>
+  <MP3>
+    <ALBUM>Unchain my heart</ALBUM>
+    <ARTIST>Joe Cocker</ARTIST>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>EMI</COMPANY>
+    <SONG>Unchain my heart</SONG>
+    <MEDIA>MP3</MEDIA>
+    <PRICE>12.20</PRICE>
+    <YEAR>1987</YEAR>
+  </MP3>
+</CATALOG>
+
+
